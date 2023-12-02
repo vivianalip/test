@@ -1,6 +1,6 @@
-# test
-##Animated Underline Hover
-Use simple list for create menu
+# Test
+## Animated Underline Hover
+Use simple list tags for create menu
 ```html
 <ul>
   <li><a href="#">About</a></li>
